@@ -4,7 +4,9 @@ A python based Search engine that searches for a phrase or word in local text fi
 
 Steps to run:
 python engine.py
-sample input
+
+Sample input
+
 Plese enter folder address /home/yagyansh/Search-engine/Search-engine/sample data set
 
 allow some time last few outputs are shown docname - weight line number which may be relevant.
